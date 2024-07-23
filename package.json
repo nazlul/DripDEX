@@ -22,7 +22,10 @@
   "moralis": "^1.0.0",
   "cors": "^2.8.5",
   "dotenv": "^10.0.0",
-  "body-parser": "^1.19.0"
+  "body-parser": "^1.19.0",
+  "@walletconnect/web3-provider": "^1.7.0",
+  "@web3auth/web3auth": "^1.0.0",
+  "async_hooks": "^1.0.0"
 },
   "devDependencies": {
     "@babel/cli": "^7.24.8",
