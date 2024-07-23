@@ -18,6 +18,12 @@
     "url": "https://github.com/nazlul/DripDEX/issues"
   },
   "homepage": "https://github.com/nazlul/DripDEX#readme",
+  "dependencies": {
+  "moralis": "^1.0.0",
+  "cors": "^2.8.5",
+  "dotenv": "^10.0.0",
+  "body-parser": "^1.19.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.24.9",
